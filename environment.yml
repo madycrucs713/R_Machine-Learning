@@ -11,6 +11,7 @@ dependencies:
   - seaborn
   - statsmodels
   - r-base=4.0
+  - r-caret
   - r-dplyr
   - r-ggplot2
   - r-reshape2
