@@ -12,6 +12,7 @@ dependencies:
   - statsmodels
   - r-base=4.0
   - r-caret
+  - r-ellipse
   - r-dplyr
   - r-ggplot2
   - r-reshape2
